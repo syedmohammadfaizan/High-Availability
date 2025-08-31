@@ -79,5 +79,6 @@ This repository showcases a **High Availability (HA) setup on AWS**, designed fo
 This setup is **production-ready** and ideal for **learning AWS cloud architecture, scaling, and monitoring**.
 
 ---
-
+🔗 LinkedIn Post Check out my LinkedIn post about this project 👉 [https://www.linkedin.com/posts/md-faizan-bb9998234_aws-docker-flask-activity-7367501682735300608-5CgB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqFwb0B3mY-3tfXzS8MUobP_65azcolSNo](https://www.linkedin.com/posts/md-faizan-bb9998234_aws-cloudcomputing-highavailability-activity-7367837287914655746-Tqw6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqFwb0B3mY-3tfXzS8MUobP_65azcolSNo)
+---
 #AWS #CloudComputing #HighAvailability #AutoScaling #DevOps #LearningByDoing
